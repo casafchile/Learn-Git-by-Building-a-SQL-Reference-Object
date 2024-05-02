@@ -7,3 +7,4 @@ git log -1
 git checkout main
 git merge fix/add-missing-rename-references
 git branch
+git branch -d fix/add-missing-rename-references
