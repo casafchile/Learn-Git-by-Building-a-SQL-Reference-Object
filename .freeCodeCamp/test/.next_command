@@ -1,2 +1,4 @@
 git add .
 git commit -m "fix: add missing rename table reference"
+git log --oneline
+git log --oneline -5
