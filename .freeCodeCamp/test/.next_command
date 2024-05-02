@@ -23,3 +23,4 @@ git status
 __vsc_prompt_cmd_original
 echo SECRET= > sample.env
 git add .
+git commit -m "feat: add sample.env"
