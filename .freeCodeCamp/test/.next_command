@@ -22,3 +22,4 @@ touch sample.env
 git status
 __vsc_prompt_cmd_original
 echo SECRET= > sample.env
+git add .
