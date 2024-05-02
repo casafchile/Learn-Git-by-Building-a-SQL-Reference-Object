@@ -20,3 +20,5 @@ git add .
 git commit -m "feat: add .gitignore"
 touch sample.env
 git status
+__vsc_prompt_cmd_original
+echo SECRET= > sample.env
